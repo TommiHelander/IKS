@@ -1,0 +1,17 @@
+version 0.1.5.0
+* 'IKS_Data' folder added to the application folder, where
+  calculation reports will be saved as default
+* saving and opening calculation reports to/from any folder
+  on the filesystem
+* general usability improved
+* installer for windows will remove previous installations of IKS
+  later than version 0.1.4.1
+* minor bugs fixed
+
+version 0.1.4.1
+* improved calculation reports
+* minor bugs fixed
+
+version 0.1.4.0
+* calculation by inputting x & y coordinates made possible
+* some bugs fixed
